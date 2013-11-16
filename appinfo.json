@@ -1,0 +1,22 @@
+{
+  "uuid": "ce3a6e2f-abc0-49a6-b9ee-0dc551ec101e",
+  "shortName": "Blockslide Seconds",
+  "longName": "Blockslide Seconds",
+  "companyName": "Jnm",
+  "versionCode": 2,
+  "versionLabel": "2.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon.png"
+      }
+    ]
+  }
+}
